@@ -1,4 +1,4 @@
-# VguidesAngfrontend
+# Angular Front End Rest API calls to Spring Boot app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
